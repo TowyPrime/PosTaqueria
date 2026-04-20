@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gestión taquería</string>
+    <string name="description_logo">"Imagen del logotipo "</string>
+    <string name="helper_required">Requerido</string>
+    <string name="hint_password">Ingresa tu contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="hint_email">Ingresa tu correo electrónico</string>
+    <string name="tv_welcome">Ventas de Taqueria Lety</string>
+    <string name="btn_log_up">Crear cuenta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_enter">Entrar</string>
+    <string name="et_email">Ingresa tu correo electrónico</string>
+    <string name="et_password">Ingresa tu contraseña</string>
+    <string name="btn_register">Crear cuenta</string>
+    <string name="label_login">Iniciar sesión</string>
+    <string name="label_log_up">Crear cuenta</string>
+    <string name="label_auth">Bienvenido</string>
+    <string name="tv_log_up">¿No tienes cuenta?</string>
+    <string name="tv_forgot_psw">¿Olvidaste tu contraseña?</string>
+    <string name="error_blank">Los campos no pueden estar en blanco</string>
+    <string name="error_email">Formato de correo no valido</string>
+    <string name="error_blank_password">La contraseña no puede quedar en blanco</string>
+    <string name="et_name">Ingresa tu nombre</string>
+    <string name="et_repeat_password">Ingresa nuevamente tu contraseña</string>
+    <string name="error_match_password">Ls contraseñas no coinciden</string>
+</resources>

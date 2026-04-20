@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logo_size">50dp</dimen>
+    <dimen name="logo_size_splash">200dp</dimen>
+    <dimen name="logo_size_login">150dp</dimen>
+    <dimen name="padding_min">8dp</dimen>
+    <dimen name="padding_default">16dp</dimen>
+    <dimen name="padding_middle">24dp</dimen>
+</resources>
